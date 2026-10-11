@@ -1,0 +1,15 @@
+{
+  "name": "dsh-theme-button",
+  "version": "1.0.0",
+  "description": "Floating theme widget for DeepSeek Harness: switch the official appearance, and set a custom background (picture or solid colour) with four parameters and four fit modes.",
+  "keywords": ["dsh", "dsh-plugin", "deepseek-harness", "theme"],
+  "license": "MIT",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": ["lib", "docs", "cordis.patch.yml", "README.md", "CHANGELOG.md", "LICENSE", "install.ps1"],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+# =====================================================================================
+# dsh-theme-button --- DSH bundle patch
+# Inserts one loader entry at startup so the plugin loads together with the host.
+#
+# Install:  dsh plugin --profile desktop add link:<path to this plugin>
+# =====================================================================================
+
+
+- insert:
+    - id: dsh-theme-button
+      name: dsh-theme-button
