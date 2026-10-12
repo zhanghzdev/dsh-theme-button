@@ -4,6 +4,19 @@
 
 挂件浮在界面之上，可以拖到任何位置并记住位置。所有界面自带半透明毛玻璃效果。
 
+## 效果展示
+
+| 自定义背景：关闭 | 自定义背景：纯色 |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/zhanghzdev/dsh-theme-button/main/screenshots/01-custom-off.png" width="440"> | <img src="https://raw.githubusercontent.com/zhanghzdev/dsh-theme-button/main/screenshots/02-color.png" width="440"> |
+
+| 自绘取色器 | 自定义背景：图片 |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/zhanghzdev/dsh-theme-button/main/screenshots/03-picker.png" width="440"> | <img src="https://raw.githubusercontent.com/zhanghzdev/dsh-theme-button/main/screenshots/04-wallpaper.png" width="440"> |
+
+<img src="https://raw.githubusercontent.com/zhanghzdev/dsh-theme-button/main/screenshots/05-glass.png" width="440">
+
+面板、挂件、取色板都是半透明毛玻璃，只在自定义背景开启时生效。
 ## 功能
 
 | 功能 | 说明 |
@@ -224,7 +237,7 @@ MIT 许可，随便改、随便发。
 
 微信扫码即可打赏，金额随意。感谢你的支持！
 
-<img src="docs/donate.jpg" alt="微信赞赏码" width="260">
+<img src="https://raw.githubusercontent.com/zhanghzdev/dsh-theme-button/main/docs/donate.jpg" alt="微信赞赏码" width="260">
 
 ### 感谢支持
 
