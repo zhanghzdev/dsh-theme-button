@@ -233,19 +233,15 @@ MIT 许可，随便改、随便发。
 > **项目状态**：功能已完整可用。我**不承诺持续更新**——它现在够用，我就不一定继续折腾了。
 > 代码是 MIT 许可，任何人都可以自己改、自己发。
 
-如果你觉得它好用，欢迎请我喝杯水。金额随意，**每笔 2 元、凑够 20 个人我就不亏了**。
+如果你觉得它好用，欢迎请我喝杯水。感谢你的支持！
 
-微信扫码即可打赏，金额随意。感谢你的支持！
-
-<img src="https://raw.githubusercontent.com/zhanghzdev/dsh-theme-button/main/docs/donate.jpg" alt="微信赞赏码" width="260">
+<img src="https://raw.githubusercontent.com/zhanghzdev/dsh-theme-button/main/docs/donate.jpg" alt="微信赞赏码" width="120">
 
 ### 感谢支持
 
-感谢每一位打赏者的支持（按时间顺序）：
 
 <!-- 有人打赏后，在这里加一行，例如：- 2026-10-12 @某某 ￥2 -->
 
-- 虚位以待 —— 你会是第一个吗？
 
 ---
 
